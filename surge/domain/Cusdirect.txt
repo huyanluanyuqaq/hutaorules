@@ -1,0 +1,13 @@
+# NAME: Cusdirect
+# AUTHOR: P003
+# UPDATED: 2026-10-04 03:40:50
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 1
+# DOMAIN-KEYWORD: 0
+# IP-CIDR: 0
+# IP-CIDR6: 0
+# IP-ASN: 0
+# TOTAL: 3
+DOMAIN,futoon.org
+DOMAIN,sub.dorocloud.xyz
+DOMAIN-SUFFIX,futoon.org
