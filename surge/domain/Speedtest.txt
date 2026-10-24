@@ -1,0 +1,56 @@
+# NAME: Speedtest
+# AUTHOR: P003
+# UPDATED: 2026-10-25 03:13:14
+# DOMAIN: 23
+# DOMAIN-SUFFIX: 22
+# DOMAIN-KEYWORD: 1
+# IP-CIDR: 0
+# IP-CIDR6: 0
+# IP-ASN: 0
+# TOTAL: 46
+DOMAIN,cdnst.net
+DOMAIN,cellmaps.com
+DOMAIN,ekahau.cloud
+DOMAIN,ekahau.com
+DOMAIN,fast.com
+DOMAIN,ookla-speedtest-central.hgconair.hgc.com.hk
+DOMAIN,ookla.com
+DOMAIN,ooklaserver.net
+DOMAIN,pingtest.net
+DOMAIN,speed.cloudflare.com
+DOMAIN,speed.dler.io
+DOMAIN,speedtest.app
+DOMAIN,speedtest.cc
+DOMAIN,speedtest.co
+DOMAIN,speedtest.ee
+DOMAIN,speedtest.in
+DOMAIN,speedtest.me
+DOMAIN,speedtest.net
+DOMAIN,speedtest.ng
+DOMAIN,speedtest.tv
+DOMAIN,speedtestcustom.com
+DOMAIN,webtest.net
+DOMAIN,www.speedtest.net.cdn.cloudflare.net
+DOMAIN-SUFFIX,cdnst.net
+DOMAIN-SUFFIX,cellmaps.com
+DOMAIN-SUFFIX,ekahau.cloud
+DOMAIN-SUFFIX,ekahau.com
+DOMAIN-SUFFIX,fast.com
+DOMAIN-SUFFIX,ookla-speedtest-central.hgconair.hgc.com.hk
+DOMAIN-SUFFIX,ookla.com
+DOMAIN-SUFFIX,ooklaserver.net
+DOMAIN-SUFFIX,pingtest.net
+DOMAIN-SUFFIX,speed.cloudflare.com
+DOMAIN-SUFFIX,speed.dler.io
+DOMAIN-SUFFIX,speedtest.app
+DOMAIN-SUFFIX,speedtest.cc
+DOMAIN-SUFFIX,speedtest.co
+DOMAIN-SUFFIX,speedtest.ee
+DOMAIN-SUFFIX,speedtest.in
+DOMAIN-SUFFIX,speedtest.me
+DOMAIN-SUFFIX,speedtest.net
+DOMAIN-SUFFIX,speedtest.ng
+DOMAIN-SUFFIX,speedtest.tv
+DOMAIN-SUFFIX,speedtestcustom.com
+DOMAIN-SUFFIX,webtest.net
+DOMAIN-KEYWORD,speedtest
