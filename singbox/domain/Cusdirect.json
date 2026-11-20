@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "futoon.org",
+        "sub.dorocloud.xyz"
+      ],
+      "domain_suffix": [
+        ".futoon.org"
+      ]
+    }
+  ]
+}
